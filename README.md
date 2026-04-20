@@ -53,7 +53,7 @@ The goal of this project is to understand the relationship between environmental
 
 ## 📄 Report
 Detailed report is available here:  
-👉 [View Report](./Final Report on AQI analysis.pdf)
+👉 [View Detailed Report](./final-report-aqi.pdf)
 
 ---
 
